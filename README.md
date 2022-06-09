@@ -18,4 +18,4 @@ Hi 👋 My name is jESSÉ
 
 ### Socials
 
-<p align="left"> <a href="https://discord.gg/bRHm43N9nV" target="_blank" rel="noreferrer"><img src="https://github.com/jessesouzadejesus/jessesouzadejesus/edit/main/README.md#socials" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="http" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<p align="left"> <a href="https://discord.gg/bRHm43N9nV" target="_blank" rel="noreferrer"><img src="https://github.com/jessesouzadejesus/jessesouzadejesus/edit/main/README.md#socials" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="http" width="32" height="32" /></a> 
