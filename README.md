@@ -4,8 +4,7 @@ Hi 👋 My name is jESSÉ
 
 ### Socials
 
-<p align="left"> <a href="https://discord.gg/bRHm43N9nV" target="_blank" rel="noreferrer"><img src="https://github.com/jessesouzadejesus/jessesouzadejesus/edit/main/README.md#socials
-" width="32" height="32" /></a> 
+<p align="left"> <a href="https://discord.gg/bRHm43N9nV" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.8343fd2980755cd1f6634c468bb6b3d3?rik=TC6BFNy5fiCm%2bA&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2ftwitter-transparent-png%2ftwitter-transparent-png-25.jpg&ehk=Gqa4k5pLtn%2bfelzp%2fZ8%2bZ%2fjSR4BVFy0ZSqSNqAb4ZKE%3d&risl=&pid=ImgRaw&r=0" width="30" height="30" /></a> 
   
 - 🔭 I'm currently working at... (for now I don't work in any company or do an internship, but I'm taking a computer technician course at IFPA in marabá)
 - 🌱 I'm learning...(java, with the help of portugol to learn how to use logic well)
