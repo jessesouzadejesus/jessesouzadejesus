@@ -36,7 +36,7 @@ Aqui está uma visão geral das linguagens de programação que eu domino:
 
 Aqui estão alguns dos meus projetos em destaque:
 
-- [Projeto 1](link-para-o-projeto-1): Breve descrição do projeto 1.
+- [mathlogarit](https://jessesouzadejesus.github.io/mathformlog/): Breve descrição do projeto 1.
 - [Projeto 2](link-para-o-projeto-2): Breve descrição do projeto 2.
 - [Projeto 3](link-para-o-projeto-3): Breve descrição do projeto 3.
 
