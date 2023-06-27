@@ -82,3 +82,5 @@ console.log("Palavra encontrada:", palavraEncontrada);
 ## Total de Projetos
 
 ![Total de Projetos](https://img.shields.io/badge/Projetos-3-blue)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessesouzadejesus&show_icons=true&theme=transparent)
